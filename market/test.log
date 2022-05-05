@@ -1,0 +1,907 @@
+INFO -- 2022-05-02 17:53:31,176: Watching for file changes with StatReloader
+INFO -- 2022-05-02 17:53:33,216: "GET / HTTP/1.1" 200 10697
+INFO -- 2022-05-02 17:53:33,596: "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO -- 2022-05-02 17:53:33,597: "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO -- 2022-05-02 17:53:33,598: "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+WARNING -- 2022-05-02 17:53:37,665: Not Found: /admini
+WARNING -- 2022-05-02 17:53:37,666: "GET /admini HTTP/1.1" 404 1980
+INFO -- 2022-05-02 17:53:39,845: "GET /admin/ HTTP/1.1" 302 0
+INFO -- 2022-05-02 17:53:39,880: "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2214
+INFO -- 2022-05-02 17:54:21,743: Watching for file changes with StatReloader
+INFO -- 2022-05-02 17:54:23,214: "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2214
+INFO -- 2022-05-02 17:54:34,734: "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO -- 2022-05-02 17:54:34,771: "GET /admin/ HTTP/1.1" 200 3325
+INFO -- 2022-05-02 17:55:51,534: /Users/raymbek/Documents/Study/Backend Django/project/market/goods/admin.py changed, reloading.
+INFO -- 2022-05-02 17:55:52,131: Watching for file changes with StatReloader
+INFO -- 2022-05-02 17:55:58,336: "GET /admin/ HTTP/1.1" 200 6967
+INFO -- 2022-05-02 17:56:02,407: "GET /admin/auth/user/add/ HTTP/1.1" 200 9603
+INFO -- 2022-05-02 17:56:02,475: "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO -- 2022-05-02 17:56:02,478: "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+INFO -- 2022-05-02 17:56:02,513: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:56:36,996: "POST /admin/auth/user/add/ HTTP/1.1" 200 9777
+INFO -- 2022-05-02 17:56:37,070: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:56:37,119: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:57:01,921: "POST /admin/auth/user/add/ HTTP/1.1" 200 9782
+INFO -- 2022-05-02 17:57:01,997: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:57:20,249: "POST /admin/auth/user/add/ HTTP/1.1" 200 9777
+INFO -- 2022-05-02 17:57:20,323: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:57:20,385: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:57:29,476: "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-02 17:57:29,590: "GET /admin/auth/user/2/change/ HTTP/1.1" 200 20370
+INFO -- 2022-05-02 17:57:29,632: "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4360
+INFO -- 2022-05-02 17:57:29,634: "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 12350
+INFO -- 2022-05-02 17:57:29,657: "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4360
+INFO -- 2022-05-02 17:57:29,659: "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 12350
+INFO -- 2022-05-02 17:57:29,662: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:57:29,747: "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO -- 2022-05-02 17:57:29,751: "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO -- 2022-05-02 17:57:29,759: "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO -- 2022-05-02 17:57:29,761: "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO -- 2022-05-02 17:57:37,818: "GET /admin/auth/user/ HTTP/1.1" 200 10952
+INFO -- 2022-05-02 17:57:37,882: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:57:37,906: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:57:37,926: "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO -- 2022-05-02 17:57:51,035: "GET /admin/login/customer/add/ HTTP/1.1" 200 9248
+INFO -- 2022-05-02 17:57:51,100: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:58:04,561: "POST /admin/login/customer/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-02 17:58:04,615: "GET /admin/login/customer/ HTTP/1.1" 200 8535
+INFO -- 2022-05-02 17:58:04,686: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:58:04,729: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:58:11,293: "GET /admin/login/partner/add/ HTTP/1.1" 200 8458
+INFO -- 2022-05-02 17:58:11,352: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:58:24,297: "POST /admin/login/partner/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-02 17:58:24,346: "GET /admin/login/partner/ HTTP/1.1" 200 8521
+INFO -- 2022-05-02 17:58:24,409: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:58:24,433: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:58:32,169: "GET /admin/goods/category/add/ HTTP/1.1" 200 8312
+INFO -- 2022-05-02 17:58:32,237: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:58:42,494: "POST /admin/goods/category/add/ HTTP/1.1" 200 8475
+INFO -- 2022-05-02 17:58:42,551: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:58:42,587: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:58:47,301: "POST /admin/goods/category/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-02 17:58:47,354: "GET /admin/goods/category/ HTTP/1.1" 200 8519
+INFO -- 2022-05-02 17:58:47,409: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:58:50,893: "GET /admin/goods/product/ HTTP/1.1" 200 7150
+INFO -- 2022-05-02 17:58:50,944: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:58:50,992: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:58:53,620: "GET /admin/goods/product/add/ HTTP/1.1" 200 11812
+INFO -- 2022-05-02 17:58:53,686: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:59:20,725: "POST /admin/goods/product/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-02 17:59:20,778: "GET /admin/goods/product/ HTTP/1.1" 200 8521
+INFO -- 2022-05-02 17:59:20,842: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:59:20,873: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:59:22,856: "GET /admin/goods/product/add/ HTTP/1.1" 200 11812
+INFO -- 2022-05-02 17:59:22,915: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:59:38,281: "POST /admin/goods/product/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-02 17:59:38,335: "GET /admin/goods/product/ HTTP/1.1" 200 8740
+INFO -- 2022-05-02 17:59:38,395: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:59:38,414: "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+INFO -- 2022-05-02 17:59:38,423: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:59:38,539: "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO -- 2022-05-02 17:59:40,930: "GET /admin/goods/product/add/ HTTP/1.1" 200 11812
+INFO -- 2022-05-02 17:59:40,993: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:59:56,585: "POST /admin/goods/product/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-02 17:59:56,632: "GET /admin/goods/product/ HTTP/1.1" 200 8958
+INFO -- 2022-05-02 17:59:56,697: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 17:59:56,737: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 18:00:03,519: "GET /admin/goods/category/ HTTP/1.1" 200 8313
+INFO -- 2022-05-02 18:00:03,576: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 18:00:04,310: "GET /admin/goods/product/ HTTP/1.1" 200 8747
+INFO -- 2022-05-02 18:00:04,358: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 18:00:04,381: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-02 18:01:32,204: /Users/raymbek/Documents/Study/Backend Django/project/market/goods/models.py changed, reloading.
+INFO -- 2022-05-02 18:01:33,567: Watching for file changes with StatReloader
+INFO -- 2022-05-03 02:52:39,474: Watching for file changes with StatReloader
+INFO -- 2022-05-03 02:52:40,893: "GET / HTTP/1.1" 200 10697
+INFO -- 2022-05-03 02:52:41,143: "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO -- 2022-05-03 02:52:41,147: "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO -- 2022-05-03 02:52:41,147: "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO -- 2022-05-03 02:52:44,953: "GET /admin/ HTTP/1.1" 200 9058
+INFO -- 2022-05-03 02:52:55,547: "GET /admin/orders/order/ HTTP/1.1" 200 7140
+INFO -- 2022-05-03 02:52:55,602: "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO -- 2022-05-03 02:52:55,631: "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO -- 2022-05-03 02:52:55,634: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:52:57,276: "GET /admin/orders/order/add/ HTTP/1.1" 200 9676
+INFO -- 2022-05-03 02:52:57,340: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:52:57,414: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:53:13,652: "POST /admin/orders/order/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-03 02:53:13,713: "GET /admin/orders/order/ HTTP/1.1" 200 8501
+INFO -- 2022-05-03 02:53:13,769: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:53:15,866: "GET /admin/orders/orderitem/ HTTP/1.1" 200 7173
+INFO -- 2022-05-03 02:53:15,915: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:53:15,943: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:53:17,292: "GET /admin/orders/orderitem/add/ HTTP/1.1" 200 10200
+INFO -- 2022-05-03 02:53:17,356: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:53:25,258: "POST /admin/orders/orderitem/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-03 02:53:25,311: "GET /admin/orders/orderitem/ HTTP/1.1" 200 8561
+INFO -- 2022-05-03 02:53:25,380: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:53:25,409: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:53:28,016: "GET /admin/orders/orderitem/add/ HTTP/1.1" 200 10200
+INFO -- 2022-05-03 02:53:28,067: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:53:33,237: "POST /admin/orders/orderitem/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-03 02:53:33,294: "GET /admin/orders/orderitem/ HTTP/1.1" 200 8782
+INFO -- 2022-05-03 02:53:33,348: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:53:33,375: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:53:34,846: "GET /admin/orders/order/ HTTP/1.1" 200 8294
+INFO -- 2022-05-03 02:53:34,901: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:53:35,871: "GET /admin/orders/order/1/change/ HTTP/1.1" 200 9965
+INFO -- 2022-05-03 02:53:35,938: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 02:53:35,970: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 03:01:21,851: /Users/raymbek/Documents/Study/Backend Django/project/market/orders/models.py changed, reloading.
+INFO -- 2022-05-03 16:11:01,637: Watching for file changes with StatReloader
+INFO -- 2022-05-03 16:11:05,254: "GET / HTTP/1.1" 200 10697
+INFO -- 2022-05-03 16:11:05,679: "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO -- 2022-05-03 16:11:05,681: "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO -- 2022-05-03 16:11:05,689: "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO -- 2022-05-03 16:11:11,203: "GET /admin/ HTTP/1.1" 200 9958
+INFO -- 2022-05-03 16:11:19,214: "GET /admin/auth/user/ HTTP/1.1" 200 10952
+INFO -- 2022-05-03 16:11:19,277: "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+INFO -- 2022-05-03 16:11:19,278: "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO -- 2022-05-03 16:11:19,303: "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO -- 2022-05-03 16:11:19,304: "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+INFO -- 2022-05-03 16:11:19,342: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:11:19,386: "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO -- 2022-05-03 16:11:23,622: "GET /admin/auth/user/add/ HTTP/1.1" 200 9603
+INFO -- 2022-05-03 16:11:23,700: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:11:23,752: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:11:35,925: "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-03 16:11:36,046: "GET /admin/auth/user/3/change/ HTTP/1.1" 200 20370
+INFO -- 2022-05-03 16:11:36,099: "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO -- 2022-05-03 16:11:36,102: "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO -- 2022-05-03 16:11:36,104: "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+INFO -- 2022-05-03 16:11:36,125: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:11:36,204: "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 304 0
+INFO -- 2022-05-03 16:11:36,206: "GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+INFO -- 2022-05-03 16:11:36,212: "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 304 0
+INFO -- 2022-05-03 16:11:36,224: "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO -- 2022-05-03 16:11:38,967: "GET /admin/auth/user/ HTTP/1.1" 200 11336
+INFO -- 2022-05-03 16:11:39,025: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:11:39,055: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:21:33,417: "GET /admin/login/partner/ HTTP/1.1" 200 8297
+INFO -- 2022-05-03 16:21:33,489: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:21:37,581: "GET /admin/login/partner/add/ HTTP/1.1" 200 8445
+INFO -- 2022-05-03 16:21:37,655: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:21:37,706: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:21:50,606: "GET /admin/login/customer/ HTTP/1.1" 200 8308
+INFO -- 2022-05-03 16:21:50,656: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:01,008: "GET /admin/login/customer/add/ HTTP/1.1" 200 9285
+INFO -- 2022-05-03 16:22:01,097: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:01,139: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:11,891: "POST /admin/login/customer/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-03 16:22:11,957: "GET /admin/login/customer/ HTTP/1.1" 200 8717
+INFO -- 2022-05-03 16:22:12,020: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:13,999: "GET /admin/login/partner/ HTTP/1.1" 200 8297
+INFO -- 2022-05-03 16:22:14,061: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:14,088: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:16,125: "GET /admin/login/partner/add/ HTTP/1.1" 200 8482
+INFO -- 2022-05-03 16:22:16,206: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:21,972: "GET /admin/auth/user/ HTTP/1.1" 200 11336
+INFO -- 2022-05-03 16:22:22,025: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:22,050: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:32,246: "GET /admin/login/customer/ HTTP/1.1" 200 8516
+INFO -- 2022-05-03 16:22:32,319: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:47,144: "GET /admin/login/customer/ HTTP/1.1" 200 8516
+INFO -- 2022-05-03 16:22:47,198: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:47,223: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:49,567: "GET /admin/login/customer/add/ HTTP/1.1" 200 9285
+INFO -- 2022-05-03 16:22:49,631: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:54,910: "GET /admin/login/partner/ HTTP/1.1" 200 8297
+INFO -- 2022-05-03 16:22:54,961: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:54,988: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:22:55,488: "GET /admin/login/customer/ HTTP/1.1" 200 8516
+INFO -- 2022-05-03 16:22:55,536: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:24:57,424: "GET /admin/login/partner/ HTTP/1.1" 200 8297
+INFO -- 2022-05-03 16:24:57,478: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:24:57,538: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:24:58,000: "GET /admin/login/customer/ HTTP/1.1" 200 8516
+INFO -- 2022-05-03 16:24:58,045: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:24:59,411: "GET /admin/auth/user/ HTTP/1.1" 200 11336
+INFO -- 2022-05-03 16:24:59,476: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:24:59,497: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:25:01,349: "GET /admin/auth/user/add/ HTTP/1.1" 200 9603
+INFO -- 2022-05-03 16:25:01,430: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:25:19,184: "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-03 16:25:19,359: "GET /admin/auth/user/4/change/ HTTP/1.1" 200 20370
+INFO -- 2022-05-03 16:25:19,425: "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO -- 2022-05-03 16:25:19,429: "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19634
+INFO -- 2022-05-03 16:25:19,430: "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO -- 2022-05-03 16:25:19,439: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:25:19,545: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:25:21,695: "GET /admin/auth/user/ HTTP/1.1" 200 11720
+INFO -- 2022-05-03 16:25:21,749: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:25:24,396: "GET /admin/login/customer/ HTTP/1.1" 200 8516
+INFO -- 2022-05-03 16:25:24,441: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:25:24,462: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:25:25,886: "GET /admin/login/customer/add/ HTTP/1.1" 200 9322
+INFO -- 2022-05-03 16:25:25,954: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:25:32,713: "POST /admin/login/customer/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-03 16:25:32,772: "GET /admin/login/customer/ HTTP/1.1" 200 8924
+INFO -- 2022-05-03 16:25:32,832: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:25:32,877: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:27:57,382: "GET /admin/login/partner/ HTTP/1.1" 200 8297
+INFO -- 2022-05-03 16:27:57,504: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:27:59,201: "GET /admin/login/partner/add/ HTTP/1.1" 200 8519
+INFO -- 2022-05-03 16:27:59,267: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:27:59,303: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:28:12,884: "POST /admin/login/partner/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-03 16:28:12,937: "GET /admin/login/partner/ HTTP/1.1" 200 8705
+INFO -- 2022-05-03 16:28:13,005: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:28:14,634: "GET /admin/login/partner/2/change/ HTTP/1.1" 200 8771
+INFO -- 2022-05-03 16:28:14,704: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:28:14,762: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:28:15,532: "GET /admin/login/partner/ HTTP/1.1" 200 8505
+INFO -- 2022-05-03 16:28:16,715: "GET /admin/login/partner/1/change/ HTTP/1.1" 200 8763
+INFO -- 2022-05-03 16:28:16,793: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:28:20,066: "GET /admin/login/partner/ HTTP/1.1" 200 8505
+INFO -- 2022-05-03 16:28:22,831: "GET /admin/orders/orderitem/ HTTP/1.1" 200 8565
+INFO -- 2022-05-03 16:28:22,881: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:28:22,905: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:28:25,289: "GET /admin/orders/order/ HTTP/1.1" 200 8294
+INFO -- 2022-05-03 16:28:25,349: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:17,709: /Users/raymbek/Documents/Study/Backend Django/project/market/orders/admin.py changed, reloading.
+INFO -- 2022-05-03 16:29:18,921: Watching for file changes with StatReloader
+INFO -- 2022-05-03 16:29:20,373: "GET /admin/orders/order/ HTTP/1.1" 200 8576
+INFO -- 2022-05-03 16:29:20,477: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:20,546: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:21,921: "GET /admin/orders/cart/ HTTP/1.1" 200 7415
+INFO -- 2022-05-03 16:29:21,971: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:24,364: "GET /admin/orders/cart/add/ HTTP/1.1" 200 10578
+INFO -- 2022-05-03 16:29:24,429: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:24,468: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:34,475: "POST /admin/orders/cart/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-03 16:29:34,557: "GET /admin/orders/cart/ HTTP/1.1" 200 8946
+INFO -- 2022-05-03 16:29:34,602: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:36,545: "GET /admin/orders/cart/add/ HTTP/1.1" 200 10578
+INFO -- 2022-05-03 16:29:36,607: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:36,640: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:40,842: "POST /admin/orders/cart/add/ HTTP/1.1" 200 10737
+INFO -- 2022-05-03 16:29:40,890: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:44,473: "POST /admin/orders/cart/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-03 16:29:44,530: "GET /admin/orders/cart/ HTTP/1.1" 200 9267
+INFO -- 2022-05-03 16:29:44,585: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:44,624: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:46,170: "GET /admin/orders/cart/add/ HTTP/1.1" 200 10578
+INFO -- 2022-05-03 16:29:46,245: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:48,705: "POST /admin/orders/cart/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-03 16:29:48,761: "GET /admin/orders/cart/ HTTP/1.1" 200 9587
+INFO -- 2022-05-03 16:29:48,810: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:29:48,833: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:34:31,268: "GET /admin/orders/orderitem/ HTTP/1.1" 200 8847
+INFO -- 2022-05-03 16:34:31,321: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:34:32,348: "GET /admin/orders/order/ HTTP/1.1" 200 8576
+INFO -- 2022-05-03 16:34:32,401: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:34:32,430: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-03 16:40:55,486: /Users/raymbek/Documents/Study/Backend Django/project/market/goods/migrations/0001_initial.py changed, reloading.
+INFO -- 2022-05-03 16:40:57,436: Watching for file changes with StatReloader
+INFO -- 2022-05-03 16:46:40,915: /Users/raymbek/Documents/Study/Backend Django/project/market/market/urls.py changed, reloading.
+INFO -- 2022-05-03 16:46:42,356: Watching for file changes with StatReloader
+INFO -- 2022-05-03 16:48:32,468: /Users/raymbek/Documents/Study/Backend Django/project/market/market/urls.py changed, reloading.
+INFO -- 2022-05-03 16:48:33,570: Watching for file changes with StatReloader
+INFO -- 2022-05-03 17:20:19,828: /Users/raymbek/Documents/Study/Backend Django/project/market/goods/managers.py changed, reloading.
+INFO -- 2022-05-03 17:20:21,234: Watching for file changes with StatReloader
+ERROR -- 2022-05-04 07:13:00,739: Internal Server Error: /admin/orders/order/
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/models/options.py", line 608, in get_field
+    return self.fields_map[field_name]
+KeyError: '__str__'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/contrib/admin/utils.py", line 265, in lookup_field
+    f = _get_non_gfk_field(opts, name)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/contrib/admin/utils.py", line 296, in _get_non_gfk_field
+    field = opts.get_field(name)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/models/options.py", line 610, in get_field
+    raise FieldDoesNotExist("%s has no field named '%s'" % (self.object_name, field_name))
+django.core.exceptions.FieldDoesNotExist: Order has no field named '__str__'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/models/fields/related_descriptors.py", line 173, in __get__
+    rel_obj = self.field.get_cached_value(instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/models/fields/mixins.py", line 15, in get_cached_value
+    return instance._state.fields_cache[cache_name]
+KeyError: 'customer'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+psycopg2.errors.UndefinedTable: relation "users_customer" does not exist
+LINE 1: ...ser_ptr_id", "users_customer"."billing_info" FROM "users_cus...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/response.py", line 83, in rendered_content
+    return template.render(context, self._request)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 170, in render
+    return self._render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/base.py", line 905, in render_annotated
+    return self.render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/contrib/admin/templatetags/base.py", line 33, in render
+    return super().render(context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/template/library.py", line 214, in render
+    _dict = self.func(*resolved_args, **resolved_kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/contrib/admin/templatetags/admin_list.py", line 308, in result_list
+    'results': list(results(cl)),
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/contrib/admin/templatetags/admin_list.py", line 284, in results
+    yield ResultList(None, items_for_result(cl, res, None))
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/contrib/admin/templatetags/admin_list.py", line 275, in __init__
+    super().__init__(*items)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/contrib/admin/templatetags/admin_list.py", line 200, in items_for_result
+    f, attr, value = lookup_field(field_name, result, cl.model_admin)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/contrib/admin/utils.py", line 278, in lookup_field
+    value = attr()
+  File "/Users/raymbek/Documents/Study/Backend Django/project/market/orders/models.py", line 18, in __str__
+    return f'{self.id} order of {self.customer.user.username}'
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/models/fields/related_descriptors.py", line 187, in __get__
+    rel_obj = self.get_object(instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/models/fields/related_descriptors.py", line 154, in get_object
+    return qs.get(self.field.get_reverse_related_filter(instance))
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/models/query.py", line 431, in get
+    num = len(clone)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/models/query.py", line 262, in __len__
+    self._fetch_all()
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/models/query.py", line 1324, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/models/query.py", line 51, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/models/sql/compiler.py", line 1169, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/backends/utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/backends/utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/backends/utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+django.db.utils.ProgrammingError: relation "users_customer" does not exist
+LINE 1: ...ser_ptr_id", "users_customer"."billing_info" FROM "users_cus...
+                                                             ^
+
+ERROR -- 2022-05-04 07:13:00,746: "GET /admin/orders/order/ HTTP/1.1" 500 436703
+INFO -- 2022-05-04 17:20:50,620: Watching for file changes with StatReloader
+WARNING -- 2022-05-04 17:20:52,153: Not Found: /
+WARNING -- 2022-05-04 17:20:52,154: "GET / HTTP/1.1" 404 2258
+INFO -- 2022-05-04 17:20:56,117: "GET /admin/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:20:56,168: "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2214
+INFO -- 2022-05-04 17:20:56,291: "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO -- 2022-05-04 17:20:56,292: "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO -- 2022-05-04 17:21:36,755: Watching for file changes with StatReloader
+INFO -- 2022-05-04 17:21:41,354: "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:21:41,422: "GET /admin/ HTTP/1.1" 200 7377
+INFO -- 2022-05-04 17:21:41,543: "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO -- 2022-05-04 17:21:49,892: "GET /admin/auth/user/add/ HTTP/1.1" 200 9885
+INFO -- 2022-05-04 17:21:49,962: "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO -- 2022-05-04 17:21:49,967: "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+INFO -- 2022-05-04 17:21:49,996: "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO -- 2022-05-04 17:21:49,998: "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+INFO -- 2022-05-04 17:21:50,027: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:01,898: "POST /admin/auth/user/add/ HTTP/1.1" 200 10059
+INFO -- 2022-05-04 17:22:01,976: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:02,030: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:12,460: "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:22:12,583: "GET /admin/auth/user/2/change/ HTTP/1.1" 200 20652
+INFO -- 2022-05-04 17:22:12,632: "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO -- 2022-05-04 17:22:12,634: "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO -- 2022-05-04 17:22:12,635: "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO -- 2022-05-04 17:22:12,650: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:12,728: "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 304 0
+INFO -- 2022-05-04 17:22:12,731: "GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+INFO -- 2022-05-04 17:22:12,734: "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 304 0
+INFO -- 2022-05-04 17:22:12,736: "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO -- 2022-05-04 17:22:14,669: "GET /admin/auth/user/ HTTP/1.1" 200 11234
+INFO -- 2022-05-04 17:22:14,741: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:14,769: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:14,786: "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO -- 2022-05-04 17:22:15,921: "GET /admin/auth/user/add/ HTTP/1.1" 200 9885
+INFO -- 2022-05-04 17:22:16,021: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:26,872: "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:22:26,974: "GET /admin/auth/user/3/change/ HTTP/1.1" 200 20652
+INFO -- 2022-05-04 17:22:27,029: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:27,052: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:28,734: "GET /admin/auth/user/ HTTP/1.1" 200 11618
+INFO -- 2022-05-04 17:22:28,797: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:30,994: "GET /admin/auth/user/add/ HTTP/1.1" 200 9885
+INFO -- 2022-05-04 17:22:31,061: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:31,111: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:47,080: "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:22:47,176: "GET /admin/auth/user/4/change/ HTTP/1.1" 200 20652
+INFO -- 2022-05-04 17:22:47,250: "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO -- 2022-05-04 17:22:47,253: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:47,255: "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO -- 2022-05-04 17:22:47,299: "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO -- 2022-05-04 17:22:48,992: "GET /admin/auth/user/ HTTP/1.1" 200 12002
+INFO -- 2022-05-04 17:22:49,060: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:49,091: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:50,355: "GET /admin/users/customer/ HTTP/1.1" 200 7439
+INFO -- 2022-05-04 17:22:50,407: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:51,953: "GET /admin/users/customer/add/ HTTP/1.1" 200 9604
+INFO -- 2022-05-04 17:22:52,048: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:52,090: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:22:58,652: "POST /admin/users/customer/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:22:58,705: "GET /admin/users/customer/ HTTP/1.1" 200 8791
+INFO -- 2022-05-04 17:22:58,760: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:00,633: "GET /admin/users/customer/add/ HTTP/1.1" 200 9604
+INFO -- 2022-05-04 17:23:00,697: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:00,724: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:04,298: "POST /admin/users/customer/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:23:04,355: "GET /admin/users/customer/ HTTP/1.1" 200 8999
+INFO -- 2022-05-04 17:23:04,424: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:05,902: "GET /admin/users/customer/add/ HTTP/1.1" 200 9604
+INFO -- 2022-05-04 17:23:05,968: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:06,028: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:09,492: "POST /admin/users/customer/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:23:09,555: "GET /admin/users/customer/ HTTP/1.1" 200 9206
+INFO -- 2022-05-04 17:23:09,619: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:12,506: "GET /admin/users/partner/ HTTP/1.1" 200 7432
+INFO -- 2022-05-04 17:23:12,562: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:12,601: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:13,961: "GET /admin/users/partner/add/ HTTP/1.1" 200 8801
+INFO -- 2022-05-04 17:23:14,030: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:36,187: "POST /admin/users/partner/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:23:36,267: "GET /admin/users/partner/ HTTP/1.1" 200 8777
+INFO -- 2022-05-04 17:23:36,335: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:36,412: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:38,502: "GET /admin/goods/category/ HTTP/1.1" 200 7439
+INFO -- 2022-05-04 17:23:38,555: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:40,142: "GET /admin/goods/category/add/ HTTP/1.1" 200 8594
+INFO -- 2022-05-04 17:23:40,207: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:40,310: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:23:54,160: "POST /admin/goods/category/add/ HTTP/1.1" 200 8752
+INFO -- 2022-05-04 17:23:54,226: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:24:12,823: "POST /admin/goods/category/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:24:12,883: "GET /admin/goods/category/ HTTP/1.1" 200 8791
+INFO -- 2022-05-04 17:24:12,954: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:24:13,020: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:24:14,567: "GET /admin/goods/category/add/ HTTP/1.1" 200 8594
+INFO -- 2022-05-04 17:24:14,629: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:24:24,241: "POST /admin/goods/category/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:24:24,296: "GET /admin/goods/category/ HTTP/1.1" 200 9001
+INFO -- 2022-05-04 17:24:24,366: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:24:24,388: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:24:26,843: "GET /admin/goods/product/ HTTP/1.1" 200 7432
+INFO -- 2022-05-04 17:24:26,896: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:24:29,199: "GET /admin/goods/product/add/ HTTP/1.1" 200 12088
+INFO -- 2022-05-04 17:24:29,270: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:24:29,303: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:24:58,014: "POST /admin/goods/product/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:24:58,062: "GET /admin/goods/product/ HTTP/1.1" 200 8785
+INFO -- 2022-05-04 17:24:58,120: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:24:59,672: "GET /admin/goods/product/add/ HTTP/1.1" 200 12088
+INFO -- 2022-05-04 17:24:59,759: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:24:59,795: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:25:18,192: "POST /admin/goods/product/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:25:18,248: "GET /admin/goods/product/ HTTP/1.1" 200 8995
+INFO -- 2022-05-04 17:25:18,304: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:25:34,390: "GET /admin/orders/cart/ HTTP/1.1" 200 7415
+INFO -- 2022-05-04 17:25:34,449: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:25:34,488: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:25:35,544: "GET /admin/orders/cart/add/ HTTP/1.1" 200 10530
+INFO -- 2022-05-04 17:25:35,623: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:25:42,240: "POST /admin/orders/cart/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:25:42,296: "GET /admin/orders/cart/ HTTP/1.1" 200 8946
+INFO -- 2022-05-04 17:25:42,359: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:25:42,388: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:25:43,804: "GET /admin/orders/cart/add/ HTTP/1.1" 200 10530
+INFO -- 2022-05-04 17:25:43,886: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:25:46,520: "POST /admin/orders/cart/add/ HTTP/1.1" 200 10689
+INFO -- 2022-05-04 17:25:46,571: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:25:46,608: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:25:49,169: "POST /admin/orders/cart/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:25:49,231: "GET /admin/orders/cart/ HTTP/1.1" 200 9267
+INFO -- 2022-05-04 17:25:49,289: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:25:50,986: "GET /admin/orders/cart/add/ HTTP/1.1" 200 10530
+INFO -- 2022-05-04 17:25:51,067: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:25:51,096: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:25:56,240: "POST /admin/orders/cart/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:25:56,302: "GET /admin/orders/cart/ HTTP/1.1" 200 9587
+INFO -- 2022-05-04 17:25:56,352: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:00,386: "GET /admin/orders/order/ HTTP/1.1" 200 7422
+INFO -- 2022-05-04 17:26:00,440: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:00,465: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:28,906: "GET /admin/goods/category/ HTTP/1.1" 200 8799
+INFO -- 2022-05-04 17:26:28,968: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:30,953: "GET /admin/goods/category/add/ HTTP/1.1" 200 8594
+INFO -- 2022-05-04 17:26:31,013: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:31,092: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:34,286: "GET /admin/goods/product/ HTTP/1.1" 200 8793
+INFO -- 2022-05-04 17:26:34,342: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:38,384: "GET /admin/goods/category/ HTTP/1.1" 200 8799
+INFO -- 2022-05-04 17:26:38,439: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:38,481: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:40,120: "GET /admin/goods/product/ HTTP/1.1" 200 8793
+INFO -- 2022-05-04 17:26:40,168: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:44,112: "GET /admin/goods/category/ HTTP/1.1" 200 8799
+INFO -- 2022-05-04 17:26:44,163: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:44,193: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:45,560: "GET /admin/goods/product/ HTTP/1.1" 200 8793
+INFO -- 2022-05-04 17:26:45,620: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:46,820: "GET /admin/goods/product/add/ HTTP/1.1" 200 12088
+INFO -- 2022-05-04 17:26:46,895: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:26:46,916: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:27:01,846: "POST /admin/goods/product/add/ HTTP/1.1" 302 0
+INFO -- 2022-05-04 17:27:01,965: "GET /admin/goods/product/ HTTP/1.1" 200 9200
+INFO -- 2022-05-04 17:27:02,065: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+WARNING -- 2022-05-04 17:27:23,329: Not Found: /
+WARNING -- 2022-05-04 17:27:23,330: "GET / HTTP/1.1" 404 2258
+WARNING -- 2022-05-04 17:27:27,212: Not Found: /
+WARNING -- 2022-05-04 17:27:27,212: "GET / HTTP/1.1" 404 2258
+WARNING -- 2022-05-04 17:27:35,516: Not Found: /products
+WARNING -- 2022-05-04 17:27:35,516: "GET /products HTTP/1.1" 404 2300
+WARNING -- 2022-05-04 17:27:38,739: Not Found: /products/
+WARNING -- 2022-05-04 17:27:38,739: "GET /products/ HTTP/1.1" 404 2303
+INFO -- 2022-05-04 17:28:04,140: /Users/raymbek/Documents/Study/Backend Django/project/market/market/urls.py changed, reloading.
+INFO -- 2022-05-04 17:28:05,584: Watching for file changes with StatReloader
+WARNING -- 2022-05-04 17:28:08,943: Not Found: /products/
+WARNING -- 2022-05-04 17:28:08,943: "GET /products/ HTTP/1.1" 404 2680
+WARNING -- 2022-05-04 17:28:20,005: Not Found: /goods/
+WARNING -- 2022-05-04 17:28:20,006: "GET /goods/ HTTP/1.1" 404 3247
+INFO -- 2022-05-04 17:28:26,789: "GET /goods/products HTTP/1.1" 301 0
+ERROR -- 2022-05-04 17:28:26,918: Internal Server Error: /goods/products/
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/market/goods/views.py", line 17, in get_all_products
+    return Response(serializer.data)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 1076, in get_fields
+    field_class, field_kwargs = self.build_field(
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 1222, in build_field
+    return self.build_unknown_field(field_name, model_class)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 1340, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `__all__` is not valid for model `Product`.
+ERROR -- 2022-05-04 17:28:26,920: "GET /goods/products/ HTTP/1.1" 500 138394
+INFO -- 2022-05-04 17:29:54,828: /Users/raymbek/Documents/Study/Backend Django/project/market/goods/serializers.py changed, reloading.
+INFO -- 2022-05-04 17:29:55,836: Watching for file changes with StatReloader
+ERROR -- 2022-05-04 17:29:57,871: Internal Server Error: /goods/products/
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'QuerySet' object has no attribute 'price'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/market/goods/views.py", line 17, in get_all_products
+    return Response(serializer.data)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `price` on serializer `ProductSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'price'.
+ERROR -- 2022-05-04 17:29:57,873: "GET /goods/products/ HTTP/1.1" 500 123728
+ERROR -- 2022-05-04 17:30:19,529: Internal Server Error: /goods/products/
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'QuerySet' object has no attribute 'price'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/market/goods/views.py", line 17, in get_all_products
+    return Response(serializer.data)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `price` on serializer `ProductSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'price'.
+ERROR -- 2022-05-04 17:30:19,529: "GET /goods/products/ HTTP/1.1" 500 123728
+ERROR -- 2022-05-04 17:30:20,389: Internal Server Error: /goods/products/
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'QuerySet' object has no attribute 'price'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/market/goods/views.py", line 17, in get_all_products
+    return Response(serializer.data)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `price` on serializer `ProductSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'price'.
+ERROR -- 2022-05-04 17:30:20,390: "GET /goods/products/ HTTP/1.1" 500 123728
+ERROR -- 2022-05-04 17:30:21,107: Internal Server Error: /goods/products/
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'QuerySet' object has no attribute 'price'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/market/goods/views.py", line 17, in get_all_products
+    return Response(serializer.data)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `price` on serializer `ProductSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'price'.
+ERROR -- 2022-05-04 17:30:21,108: "GET /goods/products/ HTTP/1.1" 500 123728
+ERROR -- 2022-05-04 17:30:21,729: Internal Server Error: /goods/products/
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'QuerySet' object has no attribute 'price'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/market/goods/views.py", line 17, in get_all_products
+    return Response(serializer.data)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `price` on serializer `ProductSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'price'.
+ERROR -- 2022-05-04 17:30:21,729: "GET /goods/products/ HTTP/1.1" 500 123728
+INFO -- 2022-05-04 17:32:06,462: /Users/raymbek/Documents/Study/Backend Django/project/market/goods/views.py changed, reloading.
+INFO -- 2022-05-04 17:32:07,024: Watching for file changes with StatReloader
+ERROR -- 2022-05-04 17:32:08,798: Internal Server Error: /goods/products/
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 457, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 97, in get_attribute
+    instance = getattr(instance, attr)
+AttributeError: 'QuerySet' object has no attribute 'price'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/market/goods/views.py", line 17, in get_all_products
+    return Response(serializer.data)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 555, in data
+    ret = super().data
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/serializers.py", line 509, in to_representation
+    attribute = field.get_attribute(instance)
+  File "/Users/raymbek/Documents/Study/Backend Django/project/env/lib/python3.8/site-packages/rest_framework/fields.py", line 490, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `price` on serializer `ProductSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `QuerySet` instance.
+Original exception text was: 'QuerySet' object has no attribute 'price'.
+ERROR -- 2022-05-04 17:32:08,801: "GET /goods/products/ HTTP/1.1" 500 123728
+INFO -- 2022-05-04 17:32:16,698: /Users/raymbek/Documents/Study/Backend Django/project/market/goods/serializers.py changed, reloading.
+INFO -- 2022-05-04 17:32:17,502: Watching for file changes with StatReloader
+INFO -- 2022-05-04 17:32:18,088: "GET /goods/products/ HTTP/1.1" 200 14
+INFO -- 2022-05-04 17:32:19,487: "GET /goods/products/ HTTP/1.1" 200 14
+INFO -- 2022-05-04 17:32:32,976: "GET /admin/goods/product/ HTTP/1.1" 200 9000
+INFO -- 2022-05-04 17:32:33,080: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:32:33,116: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:32:34,690: "GET /admin/goods/product/ HTTP/1.1" 200 9000
+INFO -- 2022-05-04 17:32:34,745: "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+INFO -- 2022-05-04 17:33:01,003: /Users/raymbek/Documents/Study/Backend Django/project/market/goods/views.py changed, reloading.
+INFO -- 2022-05-04 17:33:02,276: Watching for file changes with StatReloader
+INFO -- 2022-05-04 17:33:21,236: /Users/raymbek/Documents/Study/Backend Django/project/market/market/settings.py changed, reloading.
